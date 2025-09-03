@@ -27,43 +27,43 @@ const ContactPage = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: 'Email Us',
-      details: 'hello@instockai.com',
+      details: 'instockaibusiness@gmail.com',
       description: 'Send us an email anytime'
     },
     {
       icon: <Phone className="w-6 h-6" />,
       title: 'Call Us',
-      details: '+1 (555) 123-4567',
+      details: '+91 97441 38019',
       description: 'Mon-Fri from 9am to 6pm'
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       title: 'Visit Us',
-      details: 'San Francisco, CA',
+      details: 'Wayanad , kerala ',
       description: 'Available for campus visits'
     }
   ];
 
   const socialLinks = [
-    {
-      name: 'Instagram',
-      icon: <Instagram className="w-6 h-6" />,
-      url: '#',
-      color: 'hover:text-pink-600'
-    },
-    {
-      name: 'LinkedIn',
-      icon: <Linkedin className="w-6 h-6" />,
-      url: '#',
-      color: 'hover:text-blue-600'
-    },
-    {
-      name: 'YouTube',
-      icon: <Youtube className="w-6 h-6" />,
-      url: '#',
-      color: 'hover:text-red-600'
-    }
-  ];
+  {
+    name: 'Instagram',
+    icon: <Instagram className="w-6 h-6" />,
+    url: 'https://www.instagram.com/instockai/',
+    color: 'hover:text-pink-600'
+  },
+  {
+    name: 'LinkedIn',
+    icon: <Linkedin className="w-6 h-6" />,
+    url: 'https://www.linkedin.com/company/instockai/?viewAsMember=true',
+    color: 'hover:text-blue-600'
+  },
+  {
+    name: 'YouTube',
+    icon: <Youtube className="w-6 h-6" />,
+    url: 'https://www.youtube.com/@instockai',
+    color: 'hover:text-red-600'
+  }
+];
 
   return (
     <div className="pt-16">
