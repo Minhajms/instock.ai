@@ -140,12 +140,10 @@ const AboutPage = () => {
               <div className="w-48 h-48 mx-auto mb-6 bg-gradient-to-br from-blue-400 to-blue-600 rounded-full flex items-center justify-center">
                 <div className="text-4xl font-bold text-white">JS</div>
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Jamie Smith</h3>
-              <p className="text-blue-600 font-medium mb-4">Co-Founder & Lead Educator</p>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">MUHAMMAD AJNAS</h3>
+              <p className="text-blue-600 font-medium mb-4">Founder & Lead Educator</p>
               <p className="text-gray-600">
-                Former data scientist with 8 years of experience in machine learning. 
-                Passionate about making complex AI concepts accessible to everyone through 
-                engaging workshops and hands-on learning experiences.
+               Enthusiastic tech professional and founder of InstockAI, with a strong foundation in DevOps, cloud infrastructure, and software development. Holds a Master’s in Computer Science from the Central University of Kerala. Passionate about making AI and emerging technologies accessible, with experience in teaching, mentoring, and leading innovative projects.
               </p>
             </div>
             
@@ -154,10 +152,10 @@ const AboutPage = () => {
               <div className="w-48 h-48 mx-auto mb-6 bg-gradient-to-br from-green-400 to-green-600 rounded-full flex items-center justify-center">
                 <div className="text-4xl font-bold text-white">AP</div>
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Alex Patel</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">MINHAJ S</h3>
               <p className="text-green-600 font-medium mb-4">Co-Founder & Technology Director</p>
               <p className="text-gray-600">
-                Education technology specialist with a background in curriculum development. 
+                Education technology specialist with a background in curriculum development. helping people embrace AI and automation practically through education, hands-on sessions, and tool-based workflows 
                 Focuses on creating innovative learning platforms and resources that make 
                 AI education interactive and enjoyable.
               </p>
