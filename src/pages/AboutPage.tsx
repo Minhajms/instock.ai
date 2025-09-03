@@ -143,7 +143,7 @@ const AboutPage = () => {
               <h3 className="text-xl font-bold text-gray-900 mb-2">MUHAMMAD AJNAS</h3>
               <p className="text-blue-600 font-medium mb-4">Founder & Lead Educator</p>
               <p className="text-gray-600">
-               Enthusiastic tech professional and founder of InstockAI, with a strong foundation in DevOps, cloud infrastructure, and software development. Holds a Master’s in Computer Science from the Central University of Kerala. Passionate about making AI and emerging technologies accessible, with experience in teaching, mentoring, and leading innovative projects.
+               Enthusiastic tech professional with a strong foundation in DevOps, cloud infrastructure, and software development. Holds a Master’s in Computer Science from the Central University of Kerala. Passionate about making AI and emerging technologies accessible, with experience in teaching and mentoring .
               </p>
             </div>
             
